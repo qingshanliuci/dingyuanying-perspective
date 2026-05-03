@@ -36,12 +36,10 @@
 cd ~/.claude/skills/
 
 # 2. 克隆本仓库
-git clone https://github.com/qingshanliuci/丁元英思维框架-skill.git dingyuanying-perspective
+git clone https://github.com/qingshanliuci/dingyuanying-perspective.git
 
 # 3. 完成。打开新的 Claude 会话即可触发
 ```
-
-> 注：仓库目录名是中文，但 Claude Skill 系统读的是 `SKILL.md` 内的 `name: dingyuanying-perspective`，所以 clone 时建议用英文目录名 `dingyuanying-perspective` 以避免某些工具链的中文路径问题。
 
 ---
 
