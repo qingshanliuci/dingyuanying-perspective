@@ -1,0 +1,8 @@
+# 版权保护：原著小说一手素材不上传
+# Copyright protection: original novel source materials excluded
+references/sources/
+
+# 系统文件
+.DS_Store
+*.swp
+__pycache__/

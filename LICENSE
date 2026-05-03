@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2026 井九
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 关于引用内容的说明 (Notice on Quoted Content)
+
+本仓库的 SKILL.md 与 references/research/ 中包含对豆豆所著小说《遥远的救世主》
+（作家出版社 2005 年版）的直接引用。这些引用：
+
+1. 用于学术性的人物思想框架分析与角色扮演 Skill 构建，属合理使用范畴；
+2. 每处引用均标注章节出处，且嵌入在原创的分析框架中，非孤立摘录；
+3. 原著完整文本与大段连续摘录已通过 .gitignore 排除，不在本仓库分发；
+4. 本 Skill 不替代阅读原著——强烈建议使用者购买正版小说支持作者豆豆。
+
+如著作权方认为本仓库的引用方式超出合理使用范畴，请通过 GitHub Issue 联系，
+将立即调整或下架相关内容。
+
+The SKILL.md and research files in this repository contain direct quotations
+from the novel 《遥远的救世主》(Far Away Savior) by 豆豆 (Doudou),
+published by Writers Publishing House in 2005. These quotations:
+
+1. Are used for academic character-thought-framework analysis and role-playing
+   Skill construction, falling under fair use;
+2. Each citation includes chapter source, embedded in original analytical framework;
+3. The complete novel text and large continuous excerpts are excluded via
+   .gitignore and are NOT distributed in this repository;
+4. This Skill does NOT replace reading the original novel—readers are strongly
+   encouraged to purchase the official edition to support author 豆豆.
